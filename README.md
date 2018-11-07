@@ -4,7 +4,7 @@ Project 2 in FYS-STK4155 by Polina Dobrovolskaia and Ingrid Utseth
 
 # Data
 
-We use generated data sets and a data set from "A high-bias, low-variance introduction to Machine Learning for physicists" by Mehta et al. Since the latter is rather large, we randomly chose 10% of it to use in the classification algorithms (test_set.npy). 
+We use generated data sets and a data set from "A high-bias, low-variance introduction to Machine Learning for physicists" by Mehta et al. Since the latter is rather large, we randomly chose 10% of it in the readData script to use in the classification algorithms (saved as test_set.npy). 
 
 # LinearRegression
 
