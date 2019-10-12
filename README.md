@@ -1,6 +1,8 @@
 # -FYS-STK4155-Project2
 
-Project 2 in FYS-STK4155 by Polina Dobrovolskaia and Ingrid Utseth
+Project 2 in FYS-STK4155 by Polina Dobrovolskaia and Ingrid Utseth. 
+
+In this project, we studied 1D and 2D Ising model data with different machine learning techniques. 
 
 # Data
 
